@@ -1,15 +1,14 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2013-11-16T06:57:16
+# Project created by QtCreator 2013-11-16T00:53:03
 #
 #-------------------------------------------------
 
 QT       += core
 QT       += xml
-
 QT       -= gui
 
-TARGET = Test
+TARGET = PerfectTrigger
 CONFIG   += console
 CONFIG   -= app_bundle
 
